@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://D:/flutter_windows_v1.12.13+hotfix.5-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.4.3" />
+      <root url="file://D:/flutter_windows_v1.12.13+hotfix.5-stable/flutter/.pub-cache/hosted/pub.dartlang.org/facebook_audience_network-0.4.0" />
+      <root url="file://D:/flutter_windows_v1.12.13+hotfix.5-stable/flutter/.pub-cache/hosted/pub.dartlang.org/admob_flutter-0.3.4" />
+      <root url="file://D:/flutter_windows_v1.12.13+hotfix.5-stable/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-4.0.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
